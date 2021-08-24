@@ -7,7 +7,7 @@ The models used are based on [winning solution](https://www.kaggle.com/c/jane-st
 As the title suggests CICIDS 2017 dataset was used and in a nutshell, the dataset is a collection of cyber security attacks which were simulated over 5 days from 9 AM to 5 PM. 
 The dataset consists of 14 types of network attacks and 1 benign class. The dataset has around 70 features and each feature showcases the detail of particular aspects,
 such as the port number on which the attack was conducted.   
-The dataset was available on kaggle and this eased up the process of experimentation. 
+The dataset was available on kaggle and this eased up the process of experimentation. <br>
 Link for the dataset : [Dataset Link](https://www.kaggle.com/cicdataset/cicids2017)
 
 ## Code Structure
